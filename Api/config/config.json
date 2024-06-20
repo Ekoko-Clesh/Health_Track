@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "Update1981!",
+    "database": "health_track_db",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "Update1981!",
+    "database": "health_track_db",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "Update1981!",
+    "database": "health_track_db",
+    "host": "localhost",
+    "dialect": "mysql"
+  }
+}
